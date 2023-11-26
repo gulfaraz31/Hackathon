@@ -1,0 +1,355 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+
+  
+.img{
+    width: 70px;
+    margin-top: 40px;
+    height: 30px;
+    padding-left: 20px;
+    
+}
+
+.navbar{
+    display:inline-block;
+    justify-content: center; 
+    width: 100px;
+    
+    
+    
+}
+
+
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+    padding-left: 25cm;
+    list-style-type: none;
+    
+    
+}
+
+.navbar ul li{
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: rgb(10, 10,  10);
+    font-weight: bold;
+    
+
+   
+}
+
+.navbar ul li a:hover{
+    color: rgb(250, 117, 8);
+}
+
+.yellowman{
+    background-color: #FAC84F;
+}
+
+.h3{
+    position: absolute;
+    top: 180px;
+    right: 335px;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    
+    text-align: center;
+    font-weight: lighter;
+}
+.p{
+    position: absolute;
+    top: 260px;
+    left: 850px;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+  
+    
+    
+}
+.p1{
+    position: absolute;
+    top: 300px;
+    left: 708px;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    
+    text-align: center;
+    font-weight: bolder;
+    
+}
+.p2{
+    position: absolute;
+    top: 335px;
+    left: 804px;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    
+    text-align: center;
+    font-weight: bolder;
+}
+.p3{
+    position: absolute;
+    top: 375px;
+    left: 766px;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    
+    text-align: center;
+    font-weight: bolder;
+}
+
+.p4{
+    position: absolute;
+    top: 413px;
+    left: 748px;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    
+    text-align: center;
+    font-weight: bolder;
+  
+
+}
+
+.p5{
+    position: absolute;
+    top: 516px;
+    left: 720px;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    
+    
+}
+
+.hrf{
+    position: absolute;
+    top: 300px;
+    left: 870px;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+   
+    text-align: center;
+    text-decoration: none;
+    color:rgb(54, 4, 100) ;
+    font-weight: bolder;
+    
+
+}
+.free{
+    position: absolute;
+    top: 516px;
+    left: 820px;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+
+/* .para{
+  
+      animation: slideInFromRight 1s ease-out;  
+}  */
+
+.btn{
+    position: absolute;
+    top: 600px;
+    left: 750px;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    background-color:#34365a ;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    width: 180px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+.btn:hover{
+    color: #34365a;
+    background-color: rgb(255, 255, 255);
+}
+
+.pp2{
+   text-align: center;
+   font-weight: bold;
+   font-size: 60px;
+}
+.ppp2{
+    text-align: center;
+    font-style: italic;
+    
+}
+
+.img2{
+    display: flex;
+    justify-content: space-between;
+    margin: 2cm;
+}
+
+.midbody{
+    display: flex;
+}
+    
+.ldd{
+    margin-top: 17%;
+    font-weight: bold;
+    background-color: #FAC84F;
+    
+}
+
+.txx{
+    margin-top: 10%;
+    display: flex;
+    background-color: #FAC84F;
+    
+    
+    
+}
+.btn3{
+    position: absolute;
+    top: 1230px;
+    left: 750px;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: #34365a;
+    background-color:#FAC84F ;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    width: 180px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+.btn3:hover{
+    color: #34365a;
+    background-color: white;
+}
+
+.box{
+ box-sizing: border-box;
+ background-color: #FAC84F;
+ box-sizing: content-box;
+ height: 400px;
+
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes slideInFromRight {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+
